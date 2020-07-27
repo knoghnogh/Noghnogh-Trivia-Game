@@ -1,2 +1,2 @@
 # Noghnogh-Trivia-Game
-This is my trivia game
+My own game trivia is centered around the players knowledge towards how well they know there lizards well.
